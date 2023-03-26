@@ -1,0 +1,25 @@
+/* *{
+    background: #000;
+    color: #a52a2a;
+} */
+h1{
+
+    color:#a52a2a;
+    background-color:#000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color:rgb(43, 15, 197);
+}
+.int{
+    background: red;
+    color: blanchedalmond;
+}
+#sepo{
+    background-color: black;
+    color: blue;
+}
+.int h1{
+    color: aqua;
+    font-size: large;
+}
